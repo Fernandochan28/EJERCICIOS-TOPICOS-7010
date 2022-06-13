@@ -1,0 +1,76 @@
+.seccion1 {
+  background-color: rgba(0, 0, 0, 0.5);
+  background-image: url("https://res.cloudinary.com/duhko7lyl/image/upload/v1653493816/Recursos_%22El%20Pipila%22/imagen1_vktqua.jpg");
+  width: 100%;
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: overlay;
+}
+
+.acerca {
+  max-width: 100%;
+  font-size: 40px;
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  line-height: 40px;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.vision-mision{
+  background-color: #be8b09;
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 15px;
+  padding-bottom: 10px;
+}
+
+.titulo {
+  padding: 10%;
+  margin: 0px;
+  text-align: center;
+  font-size: 40px;
+  background-color: #be8b09;
+}
+
+.subtitulo {
+  font-size: 20px;
+  padding: 10px;
+}
+
+.info {
+  width: 100%;
+  background-color: #1E6BA2;
+  padding: 15px 0px;
+}
+
+.info p {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.fondo {
+  background-color: #ededed;
+  margin: 20px;
+  padding: 20px;
+  max-height: 500px;
+  height: 500px;
+}
+.capsulamap {
+  width: 100%;
+  text-align: center;
+  max-height: 680px;
+  height: 680px;
+  border-bottom: 30px;
+  padding-bottom: 15px;
+}
+
+.imagen img {
+  display: flex;
+  width: 70%;
+  height: 100%;
+}
