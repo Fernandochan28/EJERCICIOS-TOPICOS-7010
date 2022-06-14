@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EjercicioViernes.AcercaDe">
+    <ContentPage.Content>
+        <Grid RowDefinitions="Auto,*">
+
+
+            <Image Source="xamarin_logo.png" 
+                   Background="{OnPlatform Android=#4545F3}"
+                   VerticalOptions="Center"
+                   HeightRequest="64"
+                   ></Image>
+            <StackLayout Grid.Row="1"
+                         Margin="20"
+                         Spacing="20">
+                <Label FontSize="22">
+                    <Label.FormattedText>
+                        <FormattedString>
+                            <FormattedString.Spans>
+                                <Span Text="Notasv1"></Span>
+                            </FormattedString.Spans>
+                        </FormattedString>
+                    </Label.FormattedText>
+                </Label>
+                <Label Text="Aplicacion de notas version 1"></Label>
+                <Button Text="cerrar"></Button>
+                
+            </StackLayout>
+            
+                         
+            
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

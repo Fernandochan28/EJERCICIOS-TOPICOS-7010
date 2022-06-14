@@ -1,0 +1,17 @@
+C:\Users\euan2\source\repos\EjercicioViernes\EjercicioViernes\EjercicioViernes\bin\Debug\netstandard2.0\EjercicioViernes.deps.json
+C:\Users\euan2\source\repos\EjercicioViernes\EjercicioViernes\EjercicioViernes\bin\Debug\netstandard2.0\EjercicioViernes.dll
+C:\Users\euan2\source\repos\EjercicioViernes\EjercicioViernes\EjercicioViernes\bin\Debug\netstandard2.0\ref\EjercicioViernes.dll
+C:\Users\euan2\source\repos\EjercicioViernes\EjercicioViernes\EjercicioViernes\bin\Debug\netstandard2.0\EjercicioViernes.pdb
+C:\Users\euan2\source\repos\EjercicioViernes\EjercicioViernes\EjercicioViernes\obj\Debug\netstandard2.0\EjercicioViernes.csproj.AssemblyReference.cache
+C:\Users\euan2\source\repos\EjercicioViernes\EjercicioViernes\EjercicioViernes\obj\Debug\netstandard2.0\EjercicioViernes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\euan2\source\repos\EjercicioViernes\EjercicioViernes\EjercicioViernes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\euan2\source\repos\EjercicioViernes\EjercicioViernes\EjercicioViernes\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\euan2\source\repos\EjercicioViernes\EjercicioViernes\EjercicioViernes\obj\Debug\netstandard2.0\EjercicioViernes.AssemblyInfoInputs.cache
+C:\Users\euan2\source\repos\EjercicioViernes\EjercicioViernes\EjercicioViernes\obj\Debug\netstandard2.0\EjercicioViernes.AssemblyInfo.cs
+C:\Users\euan2\source\repos\EjercicioViernes\EjercicioViernes\EjercicioViernes\obj\Debug\netstandard2.0\EjercicioViernes.csproj.CoreCompileInputs.cache
+C:\Users\euan2\source\repos\EjercicioViernes\EjercicioViernes\EjercicioViernes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\euan2\source\repos\EjercicioViernes\EjercicioViernes\EjercicioViernes\obj\Debug\netstandard2.0\EjercicioViernes.dll
+C:\Users\euan2\source\repos\EjercicioViernes\EjercicioViernes\EjercicioViernes\obj\Debug\netstandard2.0\ref\EjercicioViernes.dll
+C:\Users\euan2\source\repos\EjercicioViernes\EjercicioViernes\EjercicioViernes\obj\Debug\netstandard2.0\EjercicioViernes.pdb
+C:\Users\euan2\source\repos\EjercicioViernes\EjercicioViernes\EjercicioViernes\obj\Debug\netstandard2.0\AcercaDe.xaml.g.cs
+C:\Users\euan2\source\repos\EjercicioViernes\EjercicioViernes\EjercicioViernes\obj\Debug\netstandard2.0\TabbedPage.xaml.g.cs
